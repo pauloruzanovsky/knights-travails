@@ -57,5 +57,4 @@ function knightTravail(start, end) {
 }
 };
 
-
 knightTravail([0,0],[7,8]) // Shortest path is 5 movements. Path taken: (6) ['[0,0]', '[1,2]', '[2,4]', '[3,6]', '[5,7]', '[7,8]']
